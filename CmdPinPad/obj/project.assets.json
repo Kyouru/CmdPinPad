@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Zona Trabajo\\Visual Basic\\CmdPinPad\\CmdPinPad\\CmdPinPad.vbproj",
+      "projectUniqueName": "C:\\Zona de Trabajo\\VisualBasic\\CmdPinPad\\CmdPinPad\\CmdPinPad.vbproj",
       "projectName": "CmdPinPad",
-      "projectPath": "C:\\Zona Trabajo\\Visual Basic\\CmdPinPad\\CmdPinPad\\CmdPinPad.vbproj",
+      "projectPath": "C:\\Zona de Trabajo\\VisualBasic\\CmdPinPad\\CmdPinPad\\CmdPinPad.vbproj",
       "packagesPath": "C:\\Users\\XxLeN\\.nuget\\packages\\",
-      "outputPath": "C:\\Zona Trabajo\\Visual Basic\\CmdPinPad\\CmdPinPad\\obj\\",
+      "outputPath": "C:\\Zona de Trabajo\\VisualBasic\\CmdPinPad\\CmdPinPad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\XxLeN\\AppData\\Roaming\\NuGet\\NuGet.Config",

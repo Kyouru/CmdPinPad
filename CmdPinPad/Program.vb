@@ -1,10 +1,11 @@
 Imports System
 
 Module Program
-    Public myPSerial As Object
-    Public WK As String
 
     Sub Main(ByVal Args() As String)
+        Dim myPSerial As Object
+        Dim WK As String = String.Empty
+
         myPSerial = CreateObject("HComPinpad.Pinpad")
 
         Dim puerto As String = String.Empty

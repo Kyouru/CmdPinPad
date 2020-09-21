@@ -7,4 +7,15 @@
     <StartupObject>Sub Main</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <COMReference Include="HCOMPINPADLib.dll">
+      <Guid>434a7378-91f4-49ac-8c87-6d4011880c0e</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
 </Project>
