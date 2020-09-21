@@ -1,0 +1,13 @@
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.vbprojAssemblyReference.cache
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.AssemblyInfoInputs.cache
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.AssemblyInfo.vb
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.vbproj.CoreCompileInputs.cache
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\bin\Debug\netcoreapp3.1\CmdPinPad.exe
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\bin\Debug\netcoreapp3.1\CmdPinPad.deps.json
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\bin\Debug\netcoreapp3.1\CmdPinPad.runtimeconfig.json
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\bin\Debug\netcoreapp3.1\CmdPinPad.runtimeconfig.dev.json
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\bin\Debug\netcoreapp3.1\CmdPinPad.dll
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\bin\Debug\netcoreapp3.1\CmdPinPad.pdb
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.dll
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.pdb
+C:\Zona Trabajo\Visual Basic\CmdPinPad\CmdPinPad\obj\Debug\netcoreapp3.1\CmdPinPad.genruntimeconfig.cache
